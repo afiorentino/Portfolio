@@ -1,0 +1,28 @@
+h1 {
+    text-align: center;
+}
+
+address {
+    text-align: center;
+    border-bottom: solid;
+}
+
+h2 {
+    text-align: center;
+    border-bottom: solid;
+}
+
+h3 {
+    border-top: solid;
+    border-bottom: solid;
+}
+
+h4 {
+    text-align: center;
+}
+
+.resume {
+    margin: 0 auto;
+    border:solid;
+    width: 65%;
+}
